@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.633,C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas=C:\Users\Андрей\Desktop\CodeThurst\controls\ct_Application.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.077,C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas=C:\Users\Андрей\Desktop\CodeThurst\RttiProcedures.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas=C:\Users\Андрей\Desktop\CodeThurst\EngineController.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,C:\Users\Андрей\Desktop\CodeThurst\Version.pas=C:\Users\Андрей\Desktop\CodeThurst\VersionInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.044,C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas=C:\Users\Андрей\Desktop\CodeThurst\packages\ctcore\AZendApi.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas=C:\Users\Андрей\Desktop\CodeThurst\Version.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,C:\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Андрей\Desktop\CodeThurst\CodeThurst.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas=C:\Users\Андрей\Desktop\CodeThurst\controls\ct_TForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>2016.08.25 14:22:46.575,=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>2016.08.25 14:23:02.492,C:\Users\Андрей\Desktop\CodeThurst\controls\ct_TBitBtn.pas=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>2016.08.25 14:32:37.266,=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>2016.08.25 14:32:44.797,C:\Users\Андрей\Desktop\CodeThurst\DelphiFunctions.pas=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>2016.08.25 20:04:21.428,=C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas</Transaction>
+    <Transaction>2016.08.25 20:06:29.071,C:\Users\Андрей\Desktop\CodeThurst\Unit1.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
