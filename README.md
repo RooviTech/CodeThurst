@@ -1,4 +1,3 @@
-[alt text](CTSplash.png)
 # CodeThurst
 PHP Engine written in Pascal. PHP version required 5.3+ and up.
 # Building in Delphi 10.1 Berlin
